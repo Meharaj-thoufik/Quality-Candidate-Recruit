@@ -1,4 +1,4 @@
-data= {
+{
   frappe:"v14.2",
   ERPNext: "v2.5"
 }
