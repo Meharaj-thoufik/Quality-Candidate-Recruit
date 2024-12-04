@@ -1,4 +1,17 @@
 {
-  frappe:"v14.2",
-  ERPNext: "v2.5"
+  "name": "LMNAs",
+  "version": "1.0.0",
+  "description": "JSON file for LMNAs data",
+  "data": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 150
+    }
+  ]
 }
